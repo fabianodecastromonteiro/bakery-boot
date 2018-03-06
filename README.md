@@ -82,9 +82,8 @@ Para o desenvolvimento do back-end deste projeto foi utilizado o framework Sprin
 
 	[Obs:] O usuário e senha são os de instalação do MySQL.
 	
-  - No arquivo **application.properties** existem algumas configurações do projeto dentre elas o nome do sistema em:
-	- server.context-path=/bakery 
-	- Execupte o projeto normalmente, de acordo com a IDE de sua preferência. Após iniciar, vá a um navegador de sua preferência e acesse a seguite url:
-		- http://localhost:8080/bakery
-	- Aparecerá a tela de boas-vindas! O sistema estará pronto para utilizar.
+  - No arquivo **application.properties** existem algumas configurações do projeto dentre elas o nome do sistema em: server.context-path 
+  - Execupte o projeto normalmente, de acordo com a IDE de sua preferência. Após iniciar, vá a um navegador de sua preferência e acesse a seguite url:
+	- http://localhost:8080/bakery
+  - Aparecerá a tela de boas-vindas! O sistema estará pronto para utilizar.
 

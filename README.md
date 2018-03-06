@@ -87,6 +87,6 @@ Para o desenvolvimento do back-end deste projeto foi utilizado o framework Sprin
 	- http://localhost:8080/bakery
   - Aparecerá a tela de boas-vindas! O sistema estará pronto para utilizar.
   - Ao iniciar a execução do sistema, alguns dados iniciais são inseridos para testes. e os usuários para acessoa são os seguintes:
-	- usuário: fulano senha: 123 (Administrador)
-	- usuário: beltrano senha: 123 (Administrador)
+	- usuário: **fulano** senha: **123** (Administrador)
+	- usuário: **beltrano** senha: **123** (Administrador)
 

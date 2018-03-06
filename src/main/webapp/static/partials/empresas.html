@@ -1,0 +1,23 @@
+<div class="container" style="padding-top:10px;width:95%">
+    <h2>Lojas do grupo</h2> <br/>
+    <table style="width:100%"  class="table table-hover">
+        <thead>
+	        <tr>
+	            <th><h3>Nome</h3></th>
+				<th><h3>Bairro</h3></th>
+				<th><h3>Cidade</h3></th>
+				<th><h3>UF</h3></th>
+				<th><h3>Tipo</h3></th>
+			</tr>	
+        </thead>
+        <tbody>
+			<tr ng-repeat="empresa in empresas">
+				<td>{{ empresa.nome }}</td>
+				<td>{{ empresa.bairro }}</td>
+				<td>{{ empresa.cidade }}</td>
+				<td>{{ empresa.uf }}</td>
+				<td>{{ empresa.matriz == 'M' ? 'Matriz' : 'Filial'}}</td>
+			</tr>
+        </tbody>
+	</table>
+</div>

@@ -73,7 +73,7 @@ Para o desenvolvimento do back-end deste projeto foi utilizado o framework Sprin
 ### Como executar? 
 
   - Faça o Download/clone do projeto. 
-  - Na IDE de sua preferência Eclipse ou STS, importe o projeto da seguinte maneira: import project in Spring Tool Suite (STS) from File > Import > Exists Maven Project. 
+  - Na IDE de sua preferência Eclipse ou STS, importe o projeto da seguinte maneira: File > Import > Exists Maven Project. 
   - Utilizando o banco MySQL crie o banco da dados, com o seguinte nome: 
 	- database.driverClassName=com.mysql.jdbc.Driver
 	- database.url=jdbc:mysql://localhost:3306/bakery	

@@ -19,45 +19,45 @@ Para o desenvolvimento do back-end deste projeto foi utilizado o framework Sprin
 
 ### Estrutura do projeto
 
-bakery-boot [Project]
-└── src
-	└── main
-		└── java
-			└── br
-				└── com
-					└── bakery
-						└── Config
-							└── DatabaseConfig.java
-						└── Model
-                    		└── Usuario.java
-						└── Repository
-                    		└── UsuarioRepository.java
-						└── Resource
-                    		└── UsuarioResource.java
-						└── Service
-                    		└── UsuarioService.java
-                    		└── UsuarioServiceImpl.java
-						└── Application.java
-		└── resources
-			└── scripts
-				└── inital-data.sql
-			└── static
-				└── css
-					└── app.css
-				└── img
-					└── favicon.ico
-					└── logo-padaria.png
-					└── logo-padaria-login.png
-				└── js
-					└── angular-locale_pt-br.js
-					└── app.js
-					└── rw-money-mask.min.js
-				└── partials
-					└── acessoNegado.html
-					└── contasPagar.html
-					└── empresas.html
-					└── usuarios.html
-				└── index.jsp
+	bakery-boot [Project]
+	└── src
+		└── main
+			└── java
+				└── br
+					└── com
+						└── bakery
+							└── Config
+								└── DatabaseConfig.java
+							└── Model
+								└── Usuario.java
+							└── Repository
+								└── UsuarioRepository.java
+							└── Resource
+								└── UsuarioResource.java
+							└── Service
+								└── UsuarioService.java
+								└── UsuarioServiceImpl.java
+							└── Application.java
+			└── resources
+				└── scripts
+					└── inital-data.sql
+				└── static
+					└── css
+						└── app.css
+					└── img
+						└── favicon.ico
+						└── logo-padaria.png
+						└── logo-padaria-login.png
+					└── js
+						└── angular-locale_pt-br.js
+						└── app.js
+						└── rw-money-mask.min.js
+					└── partials
+						└── acessoNegado.html
+						└── contasPagar.html
+						└── empresas.html
+						└── usuarios.html
+					└── index.jsp
 				
 				
 				

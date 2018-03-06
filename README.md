@@ -18,7 +18,8 @@ Para o desenvolvimento do back-end deste projeto foi utilizado o framework Sprin
 * [AngularJS 1.4.8]
 
 ### Estrutura do projeto
-bakery [Project]
+
+bakery-boot [Project]
 └── src
 	└── main
 		└── java
